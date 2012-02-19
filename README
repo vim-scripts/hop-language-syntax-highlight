@@ -1,0 +1,15 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3946
+
+This is highlight for web multi-party language hop, extention of scheme bigloo package.
+
+
+http://hop.inria.fr
+
+http://www-sop.inria.fr/indes/fp/Bigloo
+
+
+
+latest version in git:
+
+https://github.com/svakulenko/gvim_extention/blob/master/binaries/hop.zip?raw=true
+
